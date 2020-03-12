@@ -70,6 +70,7 @@
   height: 700px;
   margin: 0 auto;
   background: #c26c3075;
+  width: 100vw;
 }
 .section {
   display: flex;
@@ -153,4 +154,5 @@
   text-align: end;
   padding: 20px;
   height: 60px;
+  width: 100vw;
 }
